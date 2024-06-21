@@ -1393,7 +1393,7 @@ SPEC CHECKSUMS:
   React-jsinspector: 85583ef014ce53d731a98c66a0e24496f7a83066
   React-logger: 3eb80a977f0d9669468ef641a5e1fabbc50a09ec
   React-Mapbuffer: 84ea43c6c6232049135b1550b8c60b2faac19fab
-  react-native-pspdfkit: 843f3735589f137353f21657b963695b7c748c19
+  react-native-pspdfkit: 85ab271b81ffa0c0fbc6cb51d70146f6dd5aa6fc
   react-native-safe-area: e8230b0017d76c00de6b01e2412dcf86b127c6a3
   react-native-safe-area-context: b97eb6f9e3b7f437806c2ce5983f479f8eb5de4b
   React-nativeconfig: b4d4e9901d4cabb57be63053fd2aa6086eb3c85f
@@ -1425,4 +1425,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: e7d8e46e18ea974c6daeb2ba61f2544fb49595cc
 
-COCOAPODS: 1.14.3
+COCOAPODS: 1.15.2

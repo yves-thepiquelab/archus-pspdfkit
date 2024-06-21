@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "android": "npx react-native run-android",
-    "ios": "npx react-native run-ios",
+    "ios": "rm -rf ios/build/; kill $(lsof -t -i:8081); npx react-native run-ios",
     "lint": "eslint ./helpers ./examples ./configuration --ext .ts,.tsx",
     "start": "npm run lint && react-native start",
     "test": "jest",
